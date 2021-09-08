@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-delta-umber.vercel.app/api/top-langs/?username=youngjinhan&langs_count=6)](https://github-readme-stats-delta-umber.vercel.app) 
 <a href="https://solved.ac/skku16"><img align='top' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skku16"></a> 
-<a href="https://solved.ac/skku16"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skku16"></a> 
+<a href="https://solved.ac/skku16"><img align='top' src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skku16"></a> 
 
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skku16)](https://solved.ac/skku16)
