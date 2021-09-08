@@ -19,11 +19,11 @@ Here are some ideas to get you started:
 
 [![Top Langs](https://github-readme-stats-delta-umber.vercel.app/api/top-langs/?username=youngjinhan&langs_count=6)](https://github-readme-stats-delta-umber.vercel.app) 
 <a href="https://solved.ac/skku16"><img align='top' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skku16"></a> 
-<a href="https://solved.ac/skku16"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skku16"></a> 
+
 
 <!--
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=skku16)](https://solved.ac/skku16)
 <img align='right' src="http://mazassumnida.wtf/api/v2/generate_badge?boj=skku16">-->
 
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjinhan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
+<a href="https://solved.ac/skku16"><img src="http://mazassumnida.wtf/api/mini/generate_badge?boj=skku16"></a> [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fyoungjinhan%2Fhit-counter&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=hits&edge_flat=false)](https://hits.seeyoufarm.com)
